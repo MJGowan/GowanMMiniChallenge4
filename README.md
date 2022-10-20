@@ -1,6 +1,6 @@
 # GowanMMiniChallenge4
 Madeline Gowan
-10-20-2022
+10-18-2022
 Mini Challenge 4 - Redo
 In this program we must compare two numbers, and the console should write if the numbers are greater than, lesser than, or equal to one another.
 
